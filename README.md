@@ -53,7 +53,7 @@ Rusty Bargain is developing an app to attract new customers by offering a featur
 | ----------------- | ----------------: | ------------: | --------------------------- |
 | Linear Regression |            \~3815 |     Very fast | Sanity check                |
 | Decision Tree     |            \~2534 |          \~1s | Moderate improvement        |
-| Random Forest     |          **2018** |  1 min 17 sec | ✅ Best RMSE, selected model |
+| Random Forest     |          **2018** |  1 min 17 sec | Best RMSE, selected model   |
 | LightGBM          |              2053 |       3.2 sec | Fastest complex model       |
 | CatBoost          |              2028 |      2.33 sec | Competitive RMSE, very fast |
 
