@@ -70,5 +70,7 @@ Rusty Bargain is developing an app to attract new customers by offering a featur
 
 ## 🤝 Credits
 This project was created as part of the TripleTen Data Science program. Special thanks to:
-  - TripleTen instructors and peers for ongoing support and feedback. 
+  - TripleTen instructors and peers for ongoing support and feedback.
 
+## 🛡️ License
+This project is licensed under the MIT License.
